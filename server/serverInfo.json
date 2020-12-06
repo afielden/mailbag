@@ -1,0 +1,10 @@
+{
+    "smtp": {
+        "host": "smtp.gmail.com", "port": 465,
+        "auth": { "user" : "andrewfldn@gmail.com", "pass" : "L0rdTyr!0n" } 
+    },
+    "imap": {
+        "host": "imap.gmail.com", "port": 993,
+        "auth": { "user" : "andrewfldn@gmail.com", "pass" : "L0rdTyr!0n" } 
+    }
+}
